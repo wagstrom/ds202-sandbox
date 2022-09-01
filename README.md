@@ -11,3 +11,12 @@ We are trying to write this together as a group
 
 - being in a classroom at 8 is ... tough
 - missing two class periods for sleep
+
+
+## Happy
+
+-I have things to do
+
+## Crappy
+
+-I have too many things to do
